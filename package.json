@@ -1,0 +1,14 @@
+{
+  "name": "base-de-datos-mongodb",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD con Node.js y MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  },
+  "author": "Leandro Mulato Rios",
+  "license": "ISC"
+}
